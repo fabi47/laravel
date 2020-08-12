@@ -6,7 +6,6 @@
     
     <title>profile-home</title>
     <link rel="stylesheet" >
-    <link rel="stylesheet" >
     <style>
      
 body {
